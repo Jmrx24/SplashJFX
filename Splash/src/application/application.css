@@ -1,0 +1,19 @@
+.logo{
+-fx-background-radius: 50.0;
+-fx-border-color: white ;
+-fx-font-family: "Mansalva";
+-fx-border-radius: 100.0;
+-fx-background-repeat: no-repeat ;
+-fx-font-size: 50.0;
+-fx-background-image: url("Logo.png");
+}
+
+.mytitle{
+    -fx-font-family: "Mansalva";
+    -fx-font-size: 50.0;
+    
+}
+.letras{
+	-fx-font-family: "Satisfy";
+	-fx-font-size:16.0; 
+}
